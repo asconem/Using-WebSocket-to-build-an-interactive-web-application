@@ -1,0 +1,1 @@
+Creates a “Hello, world” application that sends messages back and forth between a browser and a server. Uses STOMP messaging with Spring to create an interactive web application.
